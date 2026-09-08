@@ -1,0 +1,5 @@
+sniffer
+__pycache__/
+*.log
+packet-sniffer.desktop
+packet-sniffer-128.png
